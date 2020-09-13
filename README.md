@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Max - aka DocTor894 👋
+
+## My pass projects
+- SimonBoard game [play](https://doctor894.github.io/simongame/)
 
 <!--
 **DocTor894/DocTor894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
