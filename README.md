@@ -5,7 +5,7 @@
 
 ---
 
-<img align="left" alt="DocTor894Stats" src="https://github-readme-stats.vercel.app/api?username=DocTor894&show_icons=true">
+<img align="left" alt="DocTor894Stats" src="https://github-readme-stats.vercel.app/api?username=DocTor894&show_icons=true&theme=dracula">
 
 <!--
 **DocTor894/DocTor894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
