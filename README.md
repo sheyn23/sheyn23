@@ -1,14 +1,14 @@
-### Hi there, I'm Max - aka DocTor894 👋
+### Hi there, I'm Max - aka Sheyn 👋
 
 ## My pass projects
-- SimonBoard game [play](https://doctor894.github.io/simongame/)
+- SimonBoard game [play](https://sheyn23.github.io/simongame/)
 
 ---
 
-<img align="left" alt="DocTor894Stats" src="https://github-readme-stats.vercel.app/api?username=DocTor894&show_icons=true&theme=dracula">
+<img align="left" alt="sheyn23Stats" src="https://github-readme-stats.vercel.app/api?username=sheyn23&show_icons=true&theme=dracula">
 
 <!--
-**DocTor894/DocTor894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sheyn23/sheyn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
